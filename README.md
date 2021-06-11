@@ -66,4 +66,4 @@ Traço Verde: Sinal executado assertivo
 
 Traço Vermelho: Sinal executado errôneo
 
-Linhas Brancas diagonais: período de análise 𝑁í𝑣𝑒𝑙 𝑑𝑒 𝐴𝑐𝑒𝑟𝑡𝑜=𝑁º 𝑑𝑒 𝐴𝑐𝑒𝑟𝑡𝑜𝑠𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝐸𝑥𝑒𝑐𝑢çõ𝑒𝑠= 36=50%
+Linhas Brancas diagonais: período de análise (𝑁í𝑣𝑒𝑙 𝑑𝑒 𝐴𝑐𝑒𝑟𝑡𝑜) = (𝑁º 𝑑𝑒 𝐴𝑐𝑒𝑟𝑡𝑜𝑠)/(𝑇𝑜𝑡𝑎𝑙 𝑑𝑒 𝐸𝑥𝑒𝑐𝑢çõ𝑒𝑠) = 3/6 = 50%
